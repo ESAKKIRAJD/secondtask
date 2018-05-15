@@ -1,0 +1,98 @@
+body{
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	background-color: #1DACD6;
+	padding: 10px 10px 10px 10px;
+	height: 40px;
+	width: 100%;
+}
+.navigation {
+  background-color: #1DACD6;	
+	width: 50%;
+	text-align: center;
+	float: left;
+}
+.icon {
+	background-color: #1DACD6;
+	
+	width: 50%;
+float: left;
+}
+.link{
+	color:#dedede;
+
+	padding: 0px 10px 0px 00px;
+	text-decoration: none;
+}
+.link.active{
+	text-decoration: underline;
+}
+.baloon img{
+	background-color: gray;
+
+	width: 102%;
+
+}
+.para{
+	background-color: white;
+	width:10o%;
+	padding: 5px ;
+}
+.text{
+	width: 30%;
+	float: left;
+	padding: 10px 10px 10px 25px;
+	text-align: justify;
+
+}
+.text h5{
+	font-weight: bold;
+	float: left;
+	padding: 10px 50% 10px 5%;
+
+  font-size: 20px;
+
+}
+.text p{
+	font-size: small;
+	padding: 5px 40px 0px 40px;
+
+}
+.text img {
+	float: left;
+padding: 5px 0px 0px 0px;
+}
+.imgpanel{
+	width:25%;
+	padding: 5%;
+}
+.panel{
+	width: 24%;
+	float: left;
+	padding: 30px 0px 10px 10px;
+	
+}
+
+
+.panel h4{
+	font-weight: bold;
+	float: right;
+	padding: 20px 35% 10px 15%;
+
+  font-size:20px;
+
+}
+.panel p{
+  font-size: small;
+  line-height: 19px;
+  color: black;
+  float: left;
+  padding: 0px 15px 60px 35%;
+
+}
+.panel img {
+	padding: 0px 30px 0px 60px;
+	float: left;
+}
